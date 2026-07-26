@@ -1,0 +1,19 @@
+/*
+Project: Chinook Sales Data Exploration
+Database: Chinook
+Purpose: Explore sales data using foundational SQL
+*/
+
+-- SECTION 1: BASIC SALES DATA EXPLORATION
+
+
+-- SECTION 2: FILTERING SALES DATA
+
+
+-- SECTION 3: SORTING AND TRANSFORMING RESULTS
+
+
+-- SECTION 4: BASIC TABLE RELATIONSHIPS
+
+
+-- SECTION 5: SALES REPORTING WITH VIEWS
