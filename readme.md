@@ -1,2 +1,2 @@
 # Chinook Sales Data Exploration
-A beginner SQL project exploring sales data from the Chinook database using concepts learned in Microsoft SQL Foundations.
+SQL portfolio project exploring sales data from the Chinook SQLite database using filtering, aggregate functions, joins, and business analysis.
