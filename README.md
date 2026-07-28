@@ -61,7 +61,7 @@ Chinook-Sales-Data-Exploration/
 ├── .gitattributes
 ├── analysis.sql
 ├── README.md
-└── screenshots/
+└── Screenshots/
 ```
 
 ---
